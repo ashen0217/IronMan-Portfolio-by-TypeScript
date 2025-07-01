@@ -98,4 +98,4 @@ This project is for educational and personal portfolio use.
 
 ---
 
-Built with ❤️ by Tony Stark (and GitHub Copilot)
+Built with ❤️ by Ashen for Tony Stark (and GitHub Copilot)
